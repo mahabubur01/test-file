@@ -1,0 +1,24 @@
+body{
+    margin:0;
+    padding: 0;
+}
+.national{
+    width: 650px;
+    height: 500px;
+    background:green;
+    margin: auto;
+    margin-top: 90px;
+    overflow: hidden;
+}
+.flag{
+     height:220px;
+     width: 223px;
+     background: red;
+     border-radius: 50%;
+     margin: auto;
+     margin-top: 120px;
+     
+}
+.video{
+      padding: 30px;
+}
